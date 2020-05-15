@@ -10,9 +10,9 @@ public class Question2 {
 		for(int i=1;i<=count;i++)
 		{
 			
-			System.out.print("if a:"+i+" ");
+			System.out.print("a:"+i+" ");
 		
-			System.out.println("then Output:");
+			System.out.print("Output:");
 			for(int j=1;j<=i;j++)
 			{
 				if(j==1)
